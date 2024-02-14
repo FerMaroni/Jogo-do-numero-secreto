@@ -9,6 +9,5 @@ Esse projeto foi criado usando lógica de programação. Ele é um jogo de adivi
 HTML
 CSS
 JavaScript
-Figma
 
 Para acessar basta clicar aqui: https://jogo-do-numero-secreto-five-woad.vercel.app/
